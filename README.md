@@ -8,8 +8,8 @@ theme.
 
 After cloning the repository, install the necessary packages:
 
-  npm install
+    npm install
 
 ## Launch on development machine
 
-  gulp dev
+    gulp dev
