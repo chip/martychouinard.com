@@ -10,7 +10,11 @@
   },
   "scripts": {
     "build": "gulp",
-    "start": "node index.js"
+    "start": "node index.js",
+    "deploy": "now & now alias",
+  },
+  "now": {
+    "alias": "martychouinard.com"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
