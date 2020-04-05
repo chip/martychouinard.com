@@ -11,7 +11,7 @@
   "scripts": {
     "build": "gulp",
     "start": "node index.js",
-    "deploy": "scp index.html js css vendor img ccdc:/opt/martychouinard-com/",
+    "deploy": "scp index.html js css vendor img ccdc:/opt/martychouinard-com/"
   },
   "now": {
     "alias": "martychouinard.com"
